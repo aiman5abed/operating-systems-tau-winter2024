@@ -1,0 +1,11 @@
+worker increment 0
+worker increment 1
+worker increment 2
+worker msleep 100
+worker decrement 0
+worker decrement 1
+worker decrement 2
+dispatcher msleep 200
+worker repeat 5; increment 3; msleep 50; decrement 3
+dispatcher wait
+
