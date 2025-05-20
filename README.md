@@ -11,14 +11,12 @@ The projects demonstrate practical knowledge in:
 ---
 
 ## Course Information
-
-- **Instructor**: Dr. Gadi Oxman  
+ 
 - **Institution**: Tel Aviv University  
 - **Language**: C under Linux  
-- **Semester**: Winter 2024  
 - **Topics**: Processes, Memory, Scheduling, I/O, Filesystems, Network communication
 
-> See [`syllabus.pdf`](./syllabus/syllabus.pdf) for full course outline.
+> See [`syllabus.pdf`](./syllabus.pdf) for full course outline.
 
 ---
 
